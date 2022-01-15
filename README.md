@@ -1,10 +1,14 @@
+# HOW TO WRITE MARKDOWN FILES
+---
+
+
 <!--Heading-->
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Heading 6
+
 
 <!--Italics-->
 *This text* is italic
